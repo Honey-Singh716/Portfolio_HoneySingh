@@ -24,7 +24,7 @@ const contactLinks = [
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    value: 'honey-singh-716',
+    value: 'honey-singh-in',
     href: profile.social.linkedin,
     accent: '#4f8ef7',
     external: true,

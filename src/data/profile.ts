@@ -16,7 +16,7 @@ export const profile = {
 
   social: {
     github: 'https://github.com/Honey-Singh716',
-    linkedin: 'https://www.linkedin.com/in/honey-singh-716/',
+    linkedin: 'https://www.linkedin.com/in/honey-singh-in/',
     leetcode: 'https://leetcode.com/u/honey-singh_12/',
     kaggle: 'https://www.kaggle.com/honeysingh12coder',
   },

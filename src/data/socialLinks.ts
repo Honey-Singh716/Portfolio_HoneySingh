@@ -21,8 +21,8 @@ export const socialProfiles: SocialProfile[] = [
   {
     id: 'linkedin',
     platform: 'LinkedIn',
-    username: 'honey-singh-716',
-    url: 'https://www.linkedin.com/in/honey-singh-716/',
+    username: 'honey-singh-in',
+    url: 'https://www.linkedin.com/in/honey-singh-in/',
     label: 'Professional Network',
     icon: 'Linkedin',
   },

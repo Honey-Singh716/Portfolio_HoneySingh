@@ -1,102 +1,41 @@
-# Honey Singh — Premium Engineering Portfolio
+# Hey, I'm Honey Singh 👋
 
-An editorial, motion-rich personal digital portfolio for **Honey Singh**, pursuing B.Tech in Artificial Intelligence and Data Science. Engineered with modern frontend craftsmanship, modular architecture, responsive typography, and performance-first animations.
+### Aspiring Software Engineer | Backend Developer | AI & Data Science Student
 
----
+I'm a third-year B.Tech student specializing in Artificial Intelligence and Data Science, passionate about building meaningful software and exploring how technology solves real-world problems.
 
-## 🚀 Key Highlights & Philosophy
+I enjoy working on backend systems, designing APIs, understanding databases, and exploring system design and AI-powered applications.
 
-- **Sophisticated Dark Aesthetic:** Deep charcoal / obsidian palette (`#0a0a0f`, `#0f0f1a`, `#12121e`), soft white typography, electric blue & violet accents with domain-specific color systems.
-- **Modern Typography Hierarchy:** Space Grotesk (headings), Inter (body readability), and JetBrains Mono (technical metadata).
-- **Engineering-First Identity:** Showcases software systems, backend architecture, AI/ML integrations, and data science without generic student templates or fabricated claims.
-- **Interactive Technical Previews:** High-fidelity interactive graphics simulating vector embeddings, multi-tenant issue tracking, Redis RESP socket commands, and Huffman compression trees.
-- **Accessible & Performance-Minded:** Respects `prefers-reduced-motion`, responsive across mobile/tablet/desktop, smooth anchor scrolling, and clean bundle optimization.
+### 🌐 Find Me Around the Web
 
----
+- **Portfolio:** [Visit My Portfolio](YOUR_PORTFOLIO_URL)
+- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- **GitHub:** [Explore my repositories](https://github.com/Honey-Singh716)
+- **Email:** YOUR_EMAIL
 
-## 🛠️ Tech Stack
+### 💻 Technologies & Tools
 
-- **Core Framework:** [React 18](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/)
-- **Bundler:** [Vite](https://vitejs.dev/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/) + PostCSS + Autoprefixer
-- **Motion & Micro-interactions:** [Framer Motion](https://www.framer.com/motion/)
-- **Icons:** [Lucide React](https://lucide.dev/)
-- **Typography:** Space Grotesk, Inter, JetBrains Mono via Google Fonts
+- **Languages:** C++, JavaScript, TypeScript, Python
+- **Backend:** Node.js, Express.js, FastAPI
+- **Frontend:** React, HTML, CSS, Tailwind CSS
+- **Databases:** PostgreSQL, SQL
+- **Tools:** Git, GitHub, Postman, Docker
+- **Currently Exploring:** System Design, RAG, AI Engineering
 
----
+### 🚀 What I'm Interested In
 
-## 📂 Project Structure
+- Building scalable and reliable backend systems.
+- Understanding system design and software architecture.
+- Exploring AI and integrating intelligent features into applications.
+- Learning new technologies and improving problem-solving skills.
 
-```text
-src/
-├── components/
-│   ├── animations/       # Reusable motion wrappers (FadeInView)
-│   ├── layout/           # Global layout elements (Footer)
-│   ├── navigation/       # Navbar with scroll progress, active section & mobile drawer
-│   ├── projects/         # ProjectCard & bespoke ProjectVisual interactive previews
-│   ├── sections/         # Page sections:
-│   │   ├── Hero.tsx              # Asymmetric editorial hero with live status badge
-│   │   ├── About.tsx             # Natural narrative, traits, personal interests & photo
-│   │   ├── Engineering.tsx       # 4 distinct domains (Software, Backend, AI/ML, Data Science)
-│   │   ├── SystemInterests.tsx   # "Things I'm exploring" constellation & learning grid
-│   │   ├── Projects.tsx          # Featured project showcases & category filter tabs
-│   │   ├── InnovationLab.tsx     # Cross-domain convergence ("Where software meets intelligence")
-│   │   ├── Journey.tsx           # Chronological growth timeline & current focus
-│   │   ├── CodingProfiles.tsx    # LeetCode, GitHub, Kaggle & DSA highlights
-│   │   ├── BeyondCode.tsx        # Creative pursuits (sketching, piano/harmonium, music)
-│   │   └── Contact.tsx           # Expressive CTA & direct contact channels
-│   └── ui/               # SectionHeading, TechTag, Button
-├── data/
-│   ├── profile.ts        # Central profile information, bio, contact details
-│   ├── projects.ts       # All projects, categories, tech tags, and links
-│   ├── skills.ts         # Engineering domains and technical learning topics
-│   ├── journey.ts        # Career and learning milestone history
-│   └── socialLinks.ts    # Centralized external profile links
-├── hooks/                # Custom hooks (scroll progress, active section, reduced motion)
-├── lib/                  # Framer Motion animation variants & transitions
-└── styles/
-    └── globals.css       # Tailwind base, typography, scrollbar styling
-```
+### 📈 A Little More About Me
+
+- 🎓 B.Tech – Artificial Intelligence & Data Science.
+- 💡 Always curious about how things work behind the scenes.
+- 🎨 Interested in sketching, music, and creative experiments.
+- 🌱 Learning, building, and improving every day.
 
 ---
 
-## 📸 Personalizing Your Photo & Resume
-
-1. **Profile Picture:**
-   - Drop your real portrait image at `public/photo.jpg`. The portfolio is already configured to display it seamlessly in the **About** section with graceful styling and fallback.
-2. **Resume:**
-   - Place your official PDF at `public/resume.pdf` to enable one-click resume downloads across the navigation bar, hero CTA, coding section, and footer.
-3. **Links & Contact:**
-   - Edit `src/data/profile.ts` or `src/data/socialLinks.ts` to adjust social handles, email, or availability status.
-
----
-
-## 💻 Getting Started Locally
-
-```bash
-# 1. Install dependencies
-npm install
-
-# 2. Start local development server
-npm run dev
-
-# 3. Build for production
-npm run build
-
-# 4. Preview production build locally
-npm run preview
-```
-
----
-
-## 🌐 Deploy to Vercel
-
-This repository includes a production-ready `vercel.json` configured for Vite:
-
-1. Push your code to your GitHub repository (`github.com/Honey-Singh716/...`).
-2. Log in to [Vercel](https://vercel.com/) and click **"Add New Project"**.
-3. Import the repository — Vercel will automatically detect Vite and run:
-   - **Build Command:** `npm run build`
-   - **Output Directory:** `dist`
-4. Click **Deploy**!
-
+*Building things, breaking things, and learning how to build them better.*

@@ -11,7 +11,7 @@ I enjoy working on backend systems, designing APIs, understanding databases, and
 - **Portfolio:** [Visit My Portfolio](https://portfolio-amber-pi.vercel.app)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/honey-singh-in)
 - **GitHub:** [Explore my repositories](https://github.com/Honey-Singh716)
-- **Email:** [EMAIL_ADDRESS] (honeysingh.work12@gmail.com)
+- **Email:** honeysingh.work12@gmail.com
 
 ### 💻 Technologies & Tools
 
